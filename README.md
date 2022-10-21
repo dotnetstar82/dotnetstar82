@@ -43,12 +43,12 @@
 <img alt="Bulma" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="Nuxt" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" />
 
-<h2> &nbsp;Ryan's Github Stats</h2>
+<h2> &nbsp;Jason's Github Stats</h2>
 <span align="left">
   
-![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryansalba1130&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
+![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotnetstar82&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 <span align="right">
-![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryansalba1130&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
+![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dotnetstar82&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
  
