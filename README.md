@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jason Alava</h1>
+<h1 align="center">Hi 👋, I'm Dotnet Star</h1>
 <h3 align="center">A Full-stack .Net Developer</h3>
 
 ### Languages  
@@ -43,7 +43,7 @@
 <img alt="Bulma" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="Nuxt" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" />
 
-<h2> &nbsp;Jason's Github Stats</h2>
+<h2> &nbsp;Github Stats</h2>
 <span align="left">
   
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dotnetstar82&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
