@@ -43,8 +43,6 @@
 <img alt="Bulma" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="Nuxt" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" />
 
-  <br/>
-  
   ### Skills
   
   <p align="left">
