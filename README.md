@@ -43,6 +43,10 @@
 <img alt="Bulma" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img alt="Nuxt" src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white" />
 
+  <br/>
+  
+  ### Skills
+  
   <p align="left">
  <code><img width="55" height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  <code><img width="55" height="55" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
@@ -75,7 +79,7 @@
   <code><img width="55" height="55" src="https://user-images.githubusercontent.com/81764479/140014281-98e75337-22c2-4129-9462-8ca159947b0d.PNG"></code>
  <span>...</span>
 </p>
-  <>
+  <br/>
 <h2> &nbsp;Github Stats</h2>
 <span align="left">
   
